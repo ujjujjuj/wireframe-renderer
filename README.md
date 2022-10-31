@@ -1,9 +1,8 @@
 # Wireframe Renderer
 
-A tool to display the wireframe of a Wavefront .obj file using SDL2.
+A tool to display the wireframe of a Wavefront .obj file using [weak perspective projection](https://www.cse.iitd.ac.in/~suban/vision/affine/node5.html).
 
-
-![preview gif](https://cdn.discordapp.com/attachments/809495560117157921/1036686857108459520/preview.gif)
+![preview gif](preview.gif)
 
 ## Usage
 
